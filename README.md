@@ -1,1 +1,1 @@
-# PythonExercise
+# Exercise for learning Python programming
